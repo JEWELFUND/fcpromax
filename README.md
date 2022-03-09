@@ -44,23 +44,23 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 #### INSTALL TOOL ON TERMUX
 ```python
 $ apt update && apt upgrade
-$ apt install python2
-$ pip2 install lolcat
-$ pip2 install mechanize
-$ pip2 install requests bs4
+$ apt install python
+$ pip install lolcat
+$ pip install mechanize
+$ pip install requests bs4
 $ apt install git
 $ git clone https://github.com/Azim-Vau/fcpromax.git
 ```
 #### RUN SCRIPT
 ```python
 $ cd fcpromax
-$ python2 fcpromax.py
+$ python fcpromax.py
 ```
 
 #### [~] SINGLE COMMAND
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/fcpromax ; cd fcpromax ; python2 fcpromax.py
+apt update -y ; apt upgrade -y ; apt install python -y ; pip install requests ; pip install mechanize ; pip install lolcat ; pip install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/fcpromax ; cd fcpromax ; python fcpromax.py
 ```
 <b>DOWNLOAD ACCESS TOKEN APK</b><br>
  <a href="https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook">  DOWNLOAD</a>
